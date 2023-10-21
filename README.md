@@ -10,4 +10,4 @@ We provided a pyuthon code for the fine-tuning process (HausaSentiLex_fine_tunin
 
 Testing out model with large data
 
-We provided an open source code in python (HausaSentiLex_bulk.ipynb) for the model to be use in annotating large tweets or any comments. 
+We provided an open source code in python (HausaSentiLex_bulk.ipynb) for the model to be use in annotating large tweets or any comments. We tested with tweets in file (hau_tweets.txt).
